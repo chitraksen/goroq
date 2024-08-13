@@ -1,3 +1,3 @@
-module groq_chatter
+module goroq
 
 go 1.22.5
